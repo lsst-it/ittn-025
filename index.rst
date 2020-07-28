@@ -74,8 +74,26 @@ In the following document and information to be provided, it is related to the i
 
 
 
-
-
+| Type of cable | Descripción | 
+| --- | --- |
+| Single-mode | - Indoor and outdoor cable |
+|             | - LSZH |
+|             | - Contains 24 and 96 filaments |
+|             | - Contains kevlar |
+|             | - 9µm /125µm |
+|             | - 1310-1550nm |
+|             | - OS2 |
+| Multi-Mode  | - Indoor and outdoor cable |
+|             | - LSZH |
+|             | - Contains 12 filaments |
+|             | - Contains kevlar |
+|             | - 50µm/125µm |
+|             | - 850-1300 |
+|             | - OM3-OM4 |
+| Copper cable| - S/FTP |
+|             | - CAT6 - Cat6A |
+|             | - 500Mhz |
+|             | - 23AWG |
 
 
 
