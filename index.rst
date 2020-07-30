@@ -61,6 +61,61 @@ In the following document and information to be provided, it is related to the i
 
 
 
+Places to treat the document
+----------------------------
+
+
+- First Floor
+- Second Floor
+
+
+This document details the connections for both copper and fiber optic floors.
+
+It is worth mentioning that all the fiber optic connections that are fed with a signal in the technical rooms come from the data center rack A1.
+
+After meetings and conversations, a consensus is reached that each office will have 6 to 4 data point connections.
+
+In some places, we have exceptions such as a visiting room that considers data points on the floor with the largest amount.
+
+Also, Rubin's control room that sees many spots on the floor and on the walls.
+
+All points are available in the diagram below.
+
+Now the data points are mixed (it is not specified if they are data or phone since that will depend on the request and configuration on the switch).
+
+The data points were installed according to a drawing that was submitted and approved.
+
+In the document, we will find data points on the wall, on the ceiling, and on the floor.
+
+The data points for the Access Points were delivered by the network engineer and at the same time from an optical signal monitoring program.
+
+From the end of the construction of the building, some modifications were made to the installation of the data points, both by requests and by locations necessary for changes.
+
+On the first floor as well as on the second floor, all points per floor reach their corresponding technical room.
+
+In each technical room, it was considered to install 48 single-mode optical fibers and 48 multi-mode optical fibers in an optical terminal that is located in the upper part of the pedestal rack in each technical room.
+
+As for the data points, they are different on the first floor and the second floor since they are not the same requests but they are very similar.
+
+
+
+First Floor
+============
+
+
+On this floor, it consists of the following characteristics in terms of materials and numbering of network points.
+
+
+- 181 Network points in total
+- 7 Access Point
+
+
+
+All data points start from the technical room.
+
+
+First Floor Image
+--------------------------
 
 
 
@@ -71,29 +126,108 @@ In the following document and information to be provided, it is related to the i
 
 
 
+https://confluence.lsstcorp.org/display/IT/Documentation+of+network+points+office+building+La+Serena+floor+1
 
 
 
-| Type of cable | Descripción | 
-| --- | --- |
-| Single-mode | - Indoor and outdoor cable |
-|             | - LSZH |
-|             | - Contains 24 and 96 filaments |
-|             | - Contains kevlar |
-|             | - 9µm /125µm |
-|             | - 1310-1550nm |
-|             | - OS2 |
-| Multi-Mode  | - Indoor and outdoor cable |
-|             | - LSZH |
-|             | - Contains 12 filaments |
-|             | - Contains kevlar |
-|             | - 50µm/125µm |
-|             | - 850-1300 |
-|             | - OM3-OM4 |
-| Copper cable| - S/FTP |
-|             | - CAT6 - Cat6A |
-|             | - 500Mhz |
-|             | - 23AWG |
+
+
+The image shows a letter with the data point number and this letter corresponds to the numbering of the patch panel that connects the data point, for example:
+1A to 24A / 25B to 48B / 49C to 72C. etc.)
+
+
+
+Technical Room First Floor
+---------------------------
+
+
+In the technical room on the first floor, it consists of the following characteristics in terms of materials and numbering of network points.
+
+
+
+- 181 Network points in total (in the patch panels}
+- 8 Patch panel
+- 4 48-port switch
+- 2 PDUs (primary and backup)
+- 1 42U Pedestal Rack
+- 1 Optical terminal with 96 optical fibers (48 singlemode OS2 and 48 multimode OM3)
+
+
+This room also houses the electrical equipment for the entire first floor and also the UPS that powers the network equipment.
+
+
+
+Technical Room First Floor Images
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Second Floor
+============
+
+
+
+On this floor, it consists of the following characteristics in terms of materials and numbering of network points.
+
+
+
+- 171 Network points in total
+- 7 Access points
+
+
+All data points start from the technical room.
+
+
+
+Second Floor Image
+--------------------------------------
+
+
+
+
+
+
+https://confluence.lsstcorp.org/display/IT/Documentation+of+network+points+office+building+La+Serena+floor+2
+
+
+
+The image shows a letter with the data point number and this letter corresponds to the numbering of the patch panel that connects the data point, for example:
+1A to 24A / 25B to 48B / 49C to 72C. etc.)
+
+
+
+
+
+Technical Room Second Floor
+-----------------------------------------
+
+
+In the technical room on the second floor, it consists of the following characteristics in terms of materials and numbering of network points.
+
+
+
+- 171 Network points in total (in the patch panels}
+- 8 Patch panel
+- 4 48-port switch
+- 2 PDUs (primary and backup)
+- 1 42U Pedestal Rack
+- 1 Optical terminal with 96 optical fibers (48 singlemode OS2 and 48 multimode OM3)
+
+
+This room also houses the electrical equipment for the entire first floor and also the UPS that powers the network equipment.
+
+
+
+Technical Room Second Floor Images
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
+
 
 
 
