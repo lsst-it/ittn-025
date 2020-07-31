@@ -130,10 +130,9 @@ First Floor Image
 
 
 .. figure:: /_static/piso1.PNG 
-   :name:piso1
-   :width: 700 px
-
-
+    :name: piso1
+            :width: 700 px
+            
 
 
 
