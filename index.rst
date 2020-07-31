@@ -61,7 +61,18 @@ In the following document and information to be provided, it is related to the i
 
 
 
-Places to treat the document
+.. figure:: /_static/Tabla.png 
+    :name: Tabla
+            :width: 700 px
+            
+
+
+
+
+
+
+
+Places To Treat The Document
 ----------------------------
 
 
@@ -118,6 +129,10 @@ First Floor Image
 --------------------------
 
 
+.. figure:: /_static/piso1.PNG 
+    :name:piso 1
+            :width: 700 px
+
 
 
 
@@ -160,6 +175,35 @@ This room also houses the electrical equipment for the entire first floor and al
 Technical Room First Floor Images
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/tec1.PNG 
+    :name: tec1
+            :width: 700 px
+
+
+
+
+
+Data Points Access Point First Floor
+-------------------------------------
+
+On the first floor, we find 7 access points installed in the locations that the network engineer gave us.
+These locations are monitored with a program that certifies their propagation of signals from the access point.
+
+
+
+
+Data Points Access Point First Floor Image
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/ap1.PNG 
+    :name: ap1
+            :width: 700 px
+
+
+
+
+
+
 
 
 
@@ -183,6 +227,9 @@ All data points start from the technical room.
 Second Floor Image
 --------------------------------------
 
+.. figure:: /_static/piso2.PNG 
+    :name: piso2
+            :width: 700 px
 
 
 
@@ -223,14 +270,30 @@ Technical Room Second Floor Images
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+.. figure:: /_static/tec2.png 
+    :name: tec2
+            :width: 700 px
 
 
 
 
 
+Data Point Access Point First Floor
+-------------------------------------
+
+
+On the second floor, we find 7 access points installed in the locations that the network engineer gave us.
+These locations are monitored with a program that certifies their propagation of signals from the access point.
 
 
 
+Data Point Access Point First Floor
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. figure:: /_static/ap2.PNG 
+    :name: ap2
+            :width: 700 px
 
 
 
