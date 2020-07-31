@@ -129,8 +129,8 @@ First Floor Image
 --------------------------
 
 
-.. figure:: /_static/piso1.png 
-   :name:piso 1
+.. figure:: /_static/piso1.PNG 
+   :name:piso1
    :width: 700 px
 
 
