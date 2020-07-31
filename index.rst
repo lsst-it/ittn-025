@@ -129,9 +129,9 @@ First Floor Image
 --------------------------
 
 
-.. figure:: /_static/piso1.PNG 
-    :name:piso 1
-            :width: 700 px
+.. figure:: /_static/piso1.png 
+   :name:piso 1
+   :width: 700 px
 
 
 
@@ -175,7 +175,7 @@ This room also houses the electrical equipment for the entire first floor and al
 Technical Room First Floor Images
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: /_static/tec1.PNG 
+.. figure:: /_static/tec1.png 
     :name: tec1
             :width: 700 px
 
