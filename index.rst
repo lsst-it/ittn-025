@@ -57,7 +57,7 @@ Introduction
 ================
  
  
-The following documentation provides information related to the installation, materials used network point areas and the amount of fiber filaments used per floor. This document also reflects how the physical network of the main building is built, putting and emphasis on the fact that the project is still undergoing construction and may undergo changes in the near future such as adding additional network points or removing those that are already in place. The materials used were all selected based on their quality and technical properties so that when the project is in operations phase it will work at maximum performance. Single-mode fiber was selected and installed hence it provides an unlimited transmission limit, but this will only be used for the equipment that perform the function of transmitting (TX). It is also noted that UTP S/FTP cables were also selected due to their transmission properties and being able to work at 10G Base T speeds. All network points will be installed with this type of cable, for both the access points and telephony connections. In regard to end user devices, UTP CAT6 will be installed. It is also important to mention that in some occasions, multi-mode fiber cable connections will be setup and installed for any technical equipment that requires it.  
+The purpose of this document is to provide information related to the installation, materials used , network point areas and the amount of fiber filaments used per floor. This document also reflects how the physical network of the main building is built by putting an emphasis on the fact that the project is still undergoing construction and may undergo changes in the near future such as adding additional network points or removing those that are already in place. The materials used were all selected based on their quality and technical properties so that when the project is in operations phase it will work at maximum performance. Single-mode fiber was selected and installed hence it provides an unlimited transmission limit, but this will only be used for the equipment that perform the function of transmitting (TX). It is also noted that UTP S/FTP cables were also selected due to their transmission properties and being able to work at 10G Base T speeds. All network points will be installed with this type of cable, for both the access points and telephony connections. In regard to end user devices, UTP CAT6 will be installed. It is also important to mention that in some occasions, multi-mode fiber cable connections will be setup and installed for any technical equipment that requires it.  
 
 
 
@@ -72,42 +72,40 @@ The following documentation provides information related to the installation, ma
 
 
 
-Places To Treat The Document
+Areas of interest
 ----------------------------
 
 
 - First Floor
 - Second Floor
 
+The following documentation illustrates both the copper and fiber optic connections installed both in the first and second floor of the new office building.
 
-This document details the connections for both copper and fiber optic floors.
+It is worth mentioning that all the fiber optic connections that are fed with a signal in the technical rooms all come from the data center located in rack A1.
 
-It is worth mentioning that all the fiber optic connections that are fed with a signal in the technical rooms come from the data center rack A1.
+After several meeting and conversations, a consensus was made with the team that each office will support from 6 to 4 data point connections.
 
-After meetings and conversations, a consensus is reached that each office will have 6 to 4 data point connections.
 
-In some places, we have exceptions such as a visiting room that considers data points on the floor with the largest amount.
+There are some areas that are considered to be exceptions, these areas include the visiting room and the Rubin Observatory control room. Both of these areas have the largest amount of data points both mounted on the floor and walls.
 
-Also, Rubin's control room that sees many spots on the floor and on the walls.
+All of these network data points are illustrated in the diagram below.
 
-All points are available in the diagram below.
+Please note that these network points are mixed, what this actually means is that these points are not predefined and set to be either data or VoIP. This will depend directly on the requirements made by the staff and the switch's configuration.
 
-Now the data points are mixed (it is not specified if they are data or phone since that will depend on the request and configuration on the switch).
+These data points were set up and installed bases on an initial drawing that was submitted and approved.
 
-The data points were installed according to a drawing that was submitted and approved.
+This documentation will illustrate, the various network points and its locations, these include walls, ceilings and the floor itself.
 
-In the document, we will find data points on the wall, on the ceiling, and on the floor.
 
-The data points for the Access Points were delivered by the network engineer and at the same time from an optical signal monitoring program.
+The data points for the access points were delivered by the network engineer and at the same time from an optimal signal monitoring program.
 
-From the end of the construction of the building, some modifications were made to the installation of the data points, both by requests and by locations necessary for changes.
+When the construction of the building was finished, some of these network points that were installed had undergone some modifications both by requests and by locations that required a change.
 
-On the first floor as well as on the second floor, all points per floor reach their corresponding technical room.
+For both the first and second floor all the network points located in these areas reach their corresponding technical room.
 
-In each technical room, it was considered to install 48 single-mode optical fibers and 48 multi-mode optical fibers in an optical terminal that is located in the upper part of the pedestal rack in each technical room.
+For each of these technical rooms, IT considered installing both 48 single-mode and 48 multi-mode optical fibers in an optical terminal that is located in the upper part of the pedestal rack for each one of these technical rooms.
 
-As for the data points, they are different on the first floor and the second floor since they are not the same requests but they are very similar.
-
+In regard to the data point connections, these are different for both the first floor and the second floor hence they are similar but not the same request. 
 
 
 First Floor
