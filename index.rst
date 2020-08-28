@@ -275,7 +275,7 @@ Technical Room Second Floor Images
 
 
 
-Data Point Access Point First Floor
+Data Point Access Point Second Floor
 -------------------------------------
 
 In the first floor of the building, we will find 7 access points installed in the locations assigned by the network engineer. 
@@ -284,7 +284,7 @@ These areas were previously monitored with a program that certified the best loc
 
 
 
-Data Point Access Point First Floor
+Data Point Access Point Second Floor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
