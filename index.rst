@@ -57,7 +57,9 @@ Introduction
 ================
  
  
-The purpose of this document is to provide information related to the installation, materials used , network point areas and the amount of fiber filaments used per floor. This document also reflects how the physical network of the main building is built by putting an emphasis on the fact that the project is still undergoing construction and may undergo changes in the near future such as adding additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that when the project is in operations phase it will work at maximum performance. Single-mode fiber was selected and installed hence it provides an unlimited transmission limit, but this will only be used for the equipment that perform the function of transmitting (TX). It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability of being able to work at 10GBASE-T speeds. All network points were installed with this type of cable, for both the access points and telephony connection systems. In regard to end user devices, UTP CAT6 was installed and last but not least it is important to mention that in some occasions, multi-mode fiber cable connections will be setup and installed for any technical equipment that requires it.  
+The purpose of this document is to provide information related to the installation, materials used, network point areas, and the number of fiber filaments used per floor. This documentation also reflects how the physical network of the main building in La Serena is built by putting an emphasis on the fact that the project is still undergoing construction and will undergo continuous changes in the near future. These changes include additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that the project can operate at maximum performance in the operations phase.
+
+Single-mode fiber was selected and installed due to its technical properties hence it provides an unlimited transmission limit. This fiber will only be used for the equipment that functions as a transmitter (TX). It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup. In some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it. 
 
 
 
@@ -94,14 +96,14 @@ Please note that these network points are mixed, what this actually means is tha
 
 These data points were set up and installed based on an initial drawing that was submitted and approved.
 
-This documentation will illustrate, the various network points along with its locations which include: floors, walls and ceilings.
+This documentation will illustrate, the various network points along with its locations that include: floors, walls and ceilings.
 
 
-The data points locations for the AP's or access points were delivered by the network engineer who used an optimal signal monitoring program to determine this.
+The data point locations for the AP's or access points were delivered by the network engineer in charge who used an optimal signal monitoring program to determine this.
 
 When the construction of the building was finished, some of these network points that were already installed had undergone some modifications both by requests from personnel and by locations that required a change.
 
-For both the first and second floor all network points located in these areas reach their corresponding technical room.
+For both the first and second floor, all network points located in these areas reach their corresponding technical room.
 
 For each of these technical rooms, IT considered installing both 48 single-mode and 48 multi-mode optical fibers in an optical terminal that is located in the upper part of the pedestal rack for each one of these technical rooms.
 
@@ -144,7 +146,7 @@ https://confluence.lsstcorp.org/display/IT/Documentation+of+network+points+offic
 
 
 
-The image shows a letter with the data point number and this letter corresponds to the numbering of the patch panel that connects the data point, for example:
+The image shows a letter with the data point number, this letter corresponds to the numbering of the patch panel that connects the data point, for example:
 1A to 24A / 25B to 48B / 49C to 72C. etc.)
 
 
