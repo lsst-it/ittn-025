@@ -96,8 +96,7 @@ Please note that these network points are mixed, what this actually means is tha
 
 These data points were set up and installed based on an initial drawing that was submitted and approved.
 
-This documentation will illustrate, the various network points along with its locations that include: floors, walls and ceilings.
-
+This documentation illustrates the various network points and their locations (Floors, Walls, Ceilings).
 
 The data point locations for the AP's or access points were delivered by the network engineer in charge who used an optimal signal monitoring program to determine this.
 
