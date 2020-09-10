@@ -85,10 +85,12 @@ Copper
 
 It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup.
 
+
 In regard to the data point connections, these are different for both the first floor and the second floor hence they are similar but not the same request.
 
 Component Features 
 ^^^^^^^^^^^^^^^^^^
+This documentation illustrates the various network points and their locations (Floors, Walls, Ceilings).
 
 
 .. figure:: /_static/Tabla.png 
