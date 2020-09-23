@@ -78,7 +78,7 @@ Fiber
 
 Single-mode and Multi-mode fiber was selected and installed in the technical rooms due to their properties. Single-mode fiber  provides an unlimited transimision rate, all of Rubin equipment are connected with this type of fiber in the new office building. In regard to the Multi-mode fiber mentioned earlier, this fiber was also setup and installed for the network devices the require the use of it. 
 
-For each of these technical rooms, IT considered installing both 48 single-mode and 48 multi-mode optical fibers in an optical terminal that is located in the upper part of the pedestal rack for each one of these technical rooms.
+For each of these technical rooms, IT considered installing both 48 single-mode and 48 multi-mode optical fibers in an optical terminal that is located in the upper part of the pedestal rack for each one of these technical rooms. This fiber will only be used for the equipment that functions as a transmitter (TX) and receiver (RX).
 
 Copper
 ^^^^^^
